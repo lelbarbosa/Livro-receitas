@@ -4,4 +4,6 @@ Olá, Bem vindo ao meu livro de Receitas :cake:
 
 - Strogonoff de Frango 
 
-  
+- Pavê
+
+- Bolo de cenoura
